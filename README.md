@@ -246,11 +246,3 @@ dvc init
 dvc repro
 ```
 
-32. Build prediction.py in pipeline folder
-
-33. build app.py file
-    add template
-
-```bash
-python app.py
-```
